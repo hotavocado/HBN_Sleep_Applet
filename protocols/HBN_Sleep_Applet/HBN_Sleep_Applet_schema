@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "HBN_Sleep_Applet_schema",
-    "skos:prefLabel": "Sleep Questionnaire v0.1",
+    "skos:prefLabel": "Sleep Questionnaire v0.2",
     "skos:altLabel": "HBN_Sleep_Applet_schema",
     "schema:description": "Daily questions about your sleep the previous night, for the MRI Phantom Study",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_Sleep_Applet/master/protocols/HBN_Sleep_Applet/README.md",

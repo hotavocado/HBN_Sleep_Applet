@@ -7,7 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": {
-        "en": "About what time did you go to bed last night (regardless of the time you actually fell asleep)?"
-    }
+    "question": "\r\n\r\n![1F634](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F634.png)\r\n\r\nAbout what time did you go to bed last night (regardless of the time you actually fell asleep)?"
 }

@@ -7,7 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": {
-        "en": "What time did you close your eyes to try to go to sleep?"
-    }
+    "question": "\r\n\r\n![1F634](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F634.png)\r\n\r\nWhat time did you close your eyes to try to go to sleep?"
 }
