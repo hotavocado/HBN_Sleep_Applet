@@ -1,0 +1,70 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "morning_set": "https://raw.githubusercontent.com/hotavocado/HBN_Sleep_Applet/master/activities/morning_set/items/",
+        "Morning1": {
+            "@id": "morning_set:Morning1",
+            "@type": "@id"
+        },
+        "Morning2": {
+            "@id": "morning_set:Morning2",
+            "@type": "@id"
+        },
+        "Morning3": {
+            "@id": "morning_set:Morning3",
+            "@type": "@id"
+        },
+        "Morning4": {
+            "@id": "morning_set:Morning4",
+            "@type": "@id"
+        },
+        "Morning5": {
+            "@id": "morning_set:Morning5",
+            "@type": "@id"
+        },
+        "Morning6": {
+            "@id": "morning_set:Morning6",
+            "@type": "@id"
+        },
+        "Morning7": {
+            "@id": "morning_set:Morning7",
+            "@type": "@id"
+        },
+        "Morning8": {
+            "@id": "morning_set:Morning8",
+            "@type": "@id"
+        },
+        "Morning9": {
+            "@id": "morning_set:Morning9",
+            "@type": "@id"
+        },
+        "Morning10": {
+            "@id": "morning_set:Morning10",
+            "@type": "@id"
+        },
+        "Morning11": {
+            "@id": "morning_set:Morning11",
+            "@type": "@id"
+        },
+        "Morning11a": {
+            "@id": "morning_set:Morning11a",
+            "@type": "@id"
+        },
+        "Morning12": {
+            "@id": "morning_set:Morning12",
+            "@type": "@id"
+        },
+        "Internet_mn1": {
+            "@id": "morning_set:Internet_mn1",
+            "@type": "@id"
+        },
+        "Internet_mn2": {
+            "@id": "morning_set:Internet_mn2",
+            "@type": "@id"
+        },
+        "FinalScreen": {
+            "@id": "morning_set:FinalScreen",
+            "@type": "@id"
+        }
+    }
+}

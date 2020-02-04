@@ -1,0 +1,119 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/HBN_Sleep_Applet/master/activities/morning_set/morning_set_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "morning_set_schema",
+    "skos:prefLabel": "Morning Sleep Questionnaire",
+    "skos:altLabel": "morning_set_schema",
+    "schema:description": "Questions about sleep the night before",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "Morning1",
+            "isAbout": "Morning1"
+        },
+        {
+            "variableName": "Morning2",
+            "isAbout": "Morning2"
+        },
+        {
+            "variableName": "Morning3",
+            "isAbout": "Morning3"
+        },
+        {
+            "variableName": "Morning4",
+            "isAbout": "Morning4"
+        },
+        {
+            "variableName": "Morning5",
+            "isAbout": "Morning5"
+        },
+        {
+            "variableName": "Morning6",
+            "isAbout": "Morning6"
+        },
+        {
+            "variableName": "Morning7",
+            "isAbout": "Morning7"
+        },
+        {
+            "variableName": "Morning8",
+            "isAbout": "Morning8"
+        },
+        {
+            "variableName": "Morning9",
+            "isAbout": "Morning9"
+        },
+        {
+            "variableName": "Morning10",
+            "isAbout": "Morning10"
+        },
+        {
+            "variableName": "Morning11",
+            "isAbout": "Morning11"
+        },
+        {
+            "variableName": "Morning11a",
+            "isAbout": "Morning11a"
+        },
+        {
+            "variableName": "Morning12",
+            "isAbout": "Morning12"
+        },
+        {
+            "variableName": "Internet_mn1",
+            "isAbout": "Internet_mn1"
+        },
+        {
+            "variableName": "Internet_mn2",
+            "isAbout": "Internet_mn2"
+        },
+        {
+            "variableName": "FinalScreen",
+            "isAbout": "FinalScreen"
+        }
+    ],
+    "ui": {
+        "order": [
+            "Morning1",
+            "Morning2",
+            "Morning3",
+            "Morning4",
+            "Morning5",
+            "Morning6",
+            "Morning7",
+            "Morning8",
+            "Morning9",
+            "Morning10",
+            "Morning11",
+            "Morning11a",
+            "Morning12",
+            "Internet_mn1",
+            "Internet_mn2",
+            "FinalScreen"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "Morning1": true,
+            "Morning2": true,
+            "Morning3": true,
+            "Morning4": true,
+            "Morning5": true,
+            "Morning6": true,
+            "Morning7": true,
+            "Morning8": true,
+            "Morning9": true,
+            "Morning10": true,
+            "Morning11": true,
+            "Morning11a": "Morning11.includes(1) || Morning11.includes(2) || Morning11.includes(3) || Morning11.includes(4) || Morning11.includes(5) || Morning11.includes(6) || Morning11.includes(7)",
+            "Morning12": true,
+            "Internet_mn1": true,
+            "Internet_mn2": true,
+            "FinalScreen": true
+        }
+    }
+}

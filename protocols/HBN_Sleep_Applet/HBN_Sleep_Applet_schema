@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/HBN_Sleep_Applet/master/protocols/HBN_Sleep_Applet/HBN_Sleep_Applet_context"
+    ],
+    "@type": "reproschema:ActivitySet",
+    "@id": "HBN_Sleep_Applet_schema",
+    "skos:prefLabel": "Sleep Questionnaire v0.1",
+    "skos:altLabel": "HBN_Sleep_Applet_schema",
+    "schema:description": "Daily questions about your sleep the previous night, for the MRI Phantom Study",
+    "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_Sleep_Applet/master/protocols/HBN_Sleep_Applet/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "variableMap": [
+        {
+            "variableName": "morning_set",
+            "isAbout": "morning_set"
+        }
+    ],
+    "ui": {
+        "order": [
+            "morning_set"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "morning_set": true
+        }
+    }
+}

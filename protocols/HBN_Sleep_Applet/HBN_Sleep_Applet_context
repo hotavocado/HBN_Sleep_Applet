@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/HBN_Sleep_Applet/master/activities/",
+        "morning_set": {
+            "@id": "activity_path:morning_set/morning_set_schema",
+            "@type": "@id"
+        }
+    }
+}

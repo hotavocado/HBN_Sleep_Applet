@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Morning1",
+    "ui": {
+        "inputType": "time"
+    },
+    "question": {
+        "en": "About what time did you go to bed last night (regardless of the time you actually fell asleep)?"
+    }
+}
